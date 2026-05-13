@@ -1,9 +1,5 @@
 # E-commerce Analysis
 
-SQL project focused on analyzing customer orders, revenue, and product performance.
-
-# E-commerce Analysis
-
 ## Project Overview
 This project focuses on analyzing e-commerce sales data using SQL to generate business insights related to customer behavior, product performance, and revenue trends.
 
